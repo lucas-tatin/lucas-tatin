@@ -37,7 +37,7 @@ Gosto de aprender novas tecnologias e transformar problemas do dia a dia em solu
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-tatin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-tatin-8a626326a/?utm_source=chatgpt.com)
 
 ---
 
